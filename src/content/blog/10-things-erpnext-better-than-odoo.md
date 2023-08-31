@@ -1,7 +1,7 @@
 ---
 title: "10 สิ่ง ERPNext เหนือกว่า Odoo"
 description: "จากประสบการณ์กับ Odoo มายาวนาน และความประทับใจเมื่อได้พบกับ ERPNext และการสรุปจุดเด่นที่แตกต่างกันของระบบ ERP ทั้งสองตัว"
-image: "/images/blog-1/image0.png"
+image: "/images/10-things-erpnext-better-than-odoo/image0.png"
 date: 2023-08-31
 draft: false
 ---
@@ -32,7 +32,7 @@ Frappe เป็นบริษัทที่มีวัฒนธรรมท�
 
 <div align="center">
 
-![](/images/blog-1/image1.png)
+![](/images/10-things-erpnext-better-than-odoo/image1.png)
 
 ปี 2018 ทีม Ecosoft ร่วม Developer Meetup ที่ Jarkatar และได้พบกับคุณ Rushabh Mehta
 
@@ -70,7 +70,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image2.png)
+![](/images/10-things-erpnext-better-than-odoo/image2.png)
 
 </div>
 
@@ -78,7 +78,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image3.png)
+![](/images/10-things-erpnext-better-than-odoo/image3.png)
 
 </div>
 
@@ -87,7 +87,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image4.png)
+![](/images/10-things-erpnext-better-than-odoo/image4.png)
 
 </div>
 
@@ -110,7 +110,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image5.png)
+![](/images/10-things-erpnext-better-than-odoo/image5.png)
 
 </div>
 
@@ -118,7 +118,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image6.png)
+![](/images/10-things-erpnext-better-than-odoo/image6.png)
 
 </div>
 
@@ -126,7 +126,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image7.png)
+![](/images/10-things-erpnext-better-than-odoo/image7.png)
 
 </div>
 
@@ -152,7 +152,7 @@ ERPNext ให้ผู้ใช้งานสร้าง App โดยไม�
 
 <div align="center">
 
-![](/images/blog-1/image8.png)
+![](/images/10-things-erpnext-better-than-odoo/image8.png)
 
 </div>
 
@@ -162,7 +162,7 @@ Odoo จนถึง Version 16 ทำงานแบบเดิม คือ�
 
 <div align="center">
 
-![](/images/blog-1/image9.png)
+![](/images/10-things-erpnext-better-than-odoo/image9.png)
 
 </div>
 
@@ -175,7 +175,7 @@ Odoo จนถึง Version 16 ทำงานแบบเดิม คือ�
 
 <div align="center">
 
-![](/images/blog-1/image10.png)
+![](/images/10-things-erpnext-better-than-odoo/image10.png)
 
 </div>
 
@@ -185,7 +185,7 @@ Odoo จนถึง Version 16 ทำงานแบบเดิม คือ�
 
 <div align="center">
 
-![](/images/blog-1/image11.png)
+![](/images/10-things-erpnext-better-than-odoo/image11.png)
 
 </div>
 
@@ -208,7 +208,7 @@ ERPNext จัดเต็มในเรื่องความปลอดภ
 
 <div align="center">
 
-![](/images/blog-1/image12.png)
+![](/images/10-things-erpnext-better-than-odoo/image12.png)
 
 </div>
 
@@ -216,7 +216,7 @@ ERPNext จัดเต็มในเรื่องความปลอดภ
 
 <div align="center">
 
-![](/images/blog-1/image13.png)
+![](/images/10-things-erpnext-better-than-odoo/image13.png)
 
 </div>
 
@@ -224,7 +224,7 @@ ERPNext จัดเต็มในเรื่องความปลอดภ
 
 <div align="center">
 
-![](/images/blog-1/image14.png)
+![](/images/10-things-erpnext-better-than-odoo/image14.png)
 
 </div>
 
@@ -232,7 +232,7 @@ Log ทุกประเภทเก็บอย่างละเอียด�
 
 <div align="center">
 
-![](/images/blog-1/image15.png)
+![](/images/10-things-erpnext-better-than-odoo/image15.png)
 
 </div>
 
@@ -240,7 +240,7 @@ Log ทุกประเภทเก็บอย่างละเอียด�
 
 <div align="center">
 
-![](/images/blog-1/image16.png)
+![](/images/10-things-erpnext-better-than-odoo/image16.png)
 
 </div>
 
@@ -258,7 +258,7 @@ Odoo เพิ่งจะมี Background Process ใช่ช่วงหล�
 
 <div align="center">
 
-![](/images/blog-1/image17.png)
+![](/images/10-things-erpnext-better-than-odoo/image17.png)
 
 </div>
 
@@ -270,7 +270,7 @@ Odoo เพิ่งจะมี Background Process ใช่ช่วงหล�
 
 <div align="center">
 
-![](/images/blog-1/image18.png)
+![](/images/10-things-erpnext-better-than-odoo/image18.png)
 
 </div>
 
@@ -299,7 +299,7 @@ Odoo มีชื่อเสีย(ง) ในเรื่องมักเป
 
 <div align="center">
 
-![](/images/blog-1/image19.png)
+![](/images/10-things-erpnext-better-than-odoo/image19.png)
 
 </div>
 
