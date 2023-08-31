@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "FLO WORKS",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_url": "https://flo-works.co",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -26,7 +26,7 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "Flo Works Limited (Head Office)",
     "copyright": "FLO WORKS 2023 ©"
   },
 
