@@ -1,4 +1,4 @@
 /xxx /
 /yyy /
-https://cute-valkyrie-b023bb.netlify.app/* https://www.flo-works.co/
-https://main--cute-valkyrie-b023bb.netlify.app/* https://www.flo-works.co/
+https://cute-valkyrie-b023bb.netlify.app/* https://www.flo-works.co/:splat
+https://main--cute-valkyrie-b023bb.netlify.app/* https://www.flo-works.co/:splat
