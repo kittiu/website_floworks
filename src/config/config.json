@@ -8,7 +8,7 @@
     "logo": "/images/logo2.png",
     "logo_width": "230",
     "logo_height": "24",
-    "logo_text": "Astroplate"
+    "logo_text": "FLO WORKS"
   },
 
   "settings": {
@@ -31,8 +31,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "FLO WORKS",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "FLO WORKS is your best ERPNext implementation partner in Thailand"
   }
 }
