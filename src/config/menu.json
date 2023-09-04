@@ -5,29 +5,29 @@
       "url": "/"
     },
     {
+      "name": "ERPNext",
+      "url": "/erpnext"
+    },
+    {
       "name": "Blog",
       "url": "/blog"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
       "name": "FAQ",
       "url": "/faq"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Home",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Home",
+          "url": "/"
         }
       ]
     },
@@ -35,33 +35,25 @@
       "name": "Product",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "ERPNext",
+          "url": "/erpnext"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Company",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
+          "text": "Blog",
+          "url": "/blog"
         },
         {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
+          "text": "Contact Us",
+          "url": "/contact"
         }
       ]
     }
