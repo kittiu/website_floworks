@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import Base from "@layouts/Base.astro";
 import Cta from "@layouts/components/Cta.astro";
 import { markdownify } from "@lib/utils/textConverter";
@@ -32,7 +31,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
 
           {
             banner?.image && (
-              <Image
+              <img
                 class="mx-auto mt-12"
                 src={banner?.image}
                 width={450}
@@ -57,7 +56,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
           feature!.features.map((item, i) => (
             <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
               {item.icon && (
-                // <Image
+                // <img
                 //   class="mx-auto"
                 //   src={item.icon}
                 //   width={30}
@@ -97,7 +96,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
                     <div class="swiper-wrapper">
                       {service!.images?.map((image: string) => (
                         <div class="swiper-slide">
-                          <Image
+                          <img
                             class="mx-auto"
                             src={image}
                             width={538}
@@ -110,7 +109,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
                     <div class="pagination" />
                   </div>
                 ) : (
-                  <Image
+                  <img
                     class="mx-auto"
                     src={service!.images![0]}
                     width={538}
@@ -176,7 +175,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
       />
       <p class="mt-3" set:html={workflow?.description} />
     </div> -->
-    <Image
+    <img
       src={workflow!.image}
       alt="workflow image"
       width={1920}

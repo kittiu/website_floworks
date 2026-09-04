@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import config from "@config/config.json";
 const { src } = Astro.props;
 const {
@@ -20,15 +19,12 @@ const {
 <a href="/" class="navbar-brand block md:w-[150px] lg:w-auto">
   {
     src || logo ? (
-      <Image
+      <img
         width={logo_width.replace("px", "") * 2}
         height={logo_height.replace("px", "") * 2}
         src={src ? src : logo}
         alt={title}
-        style={{
-          height: logo_height.replace("px", "") + "px",
-          width: logo_width.replace("px", "") + "px",
-        }}
+        style={`height:${logo_height.replace("px", "")}px;width:${logo_width.replace("px", "")}px`}
       />
     ) : logo_text ? (
       logo_text

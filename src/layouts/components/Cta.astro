@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import { markdownify } from "@lib/utils/textConverter";
 
 const {cta} = Astro.props
@@ -9,7 +8,7 @@ const {cta} = Astro.props
     <div class="section container rounded-xl shadow">
       <div class="row  mx-auto items-center justify-center">
         <div class="md:col-5 lg:col-4">
-          <Image
+          <img
             class="w-full"
             src={cta?.image}
             alt="call to action image"
