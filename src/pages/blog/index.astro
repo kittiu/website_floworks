@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import config from "@config/config.json";
 import Base from "@layouts/Base.astro";
 import Pagination from "@layouts/components/Pagination.astro";
@@ -30,7 +29,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           <div class="md:col-6">
             {
               currentPosts[0].data.image && (
-                <Image
+                <img
                   class="rounded-lg"
                   src={currentPosts[0].data.image}
                   alt={currentPosts[0].data.title}

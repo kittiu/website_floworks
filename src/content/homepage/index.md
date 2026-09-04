@@ -68,9 +68,9 @@ services:
 
 # workflow
 workflow: 
-  title:
+  title: ""
   image: /images/footer.png
-  description: 
+  description: ""
 
 # call_to_action
 call_to_action:

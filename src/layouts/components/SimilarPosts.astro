@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 const { posts } = Astro.props;
 import config from '@config/config.json';
 const {blog_folder} = config.settings
@@ -10,7 +9,7 @@ const {blog_folder} = config.settings
     posts.map((post: any) => (
       <div class={"col-12 mb-4 sm:col-4"}>
         {post.data.image && (
-          <Image
+          <img
             class="rounded-lg"
             src={post.data.image}
             alt={post.data.title}

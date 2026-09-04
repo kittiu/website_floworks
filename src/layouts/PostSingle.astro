@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import { markdownify } from "@lib/utils/textConverter";
 
 const { post } = Astro.props;
@@ -15,7 +14,7 @@ const { title, image } =
         <article class="text-center">
           {
             image && (
-              <Image
+              <img
                 src={image}
                 height={500}
                 width={1000}
